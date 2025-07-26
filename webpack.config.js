@@ -9,7 +9,7 @@ module.exports = {
     // __dirname nodejs的变量，代表当前文件的文件夹目录（webpack-learning）
     path: path.resolve(__dirname,'dist'), // 绝对路径
     // 输出文件名
-    filename:''
+    filename:'main.js'
   },
   // 加载器
   module: {
