@@ -17,5 +17,9 @@
     "url": "https://github.com/Yinjia-Chen/Webpack-Learning/issues"
   },
   "homepage": "https://github.com/Yinjia-Chen/Webpack-Learning#readme",
-  "liveServer.settings.root": "public"
+  "liveServer.settings.root": "public",
+  "devDependencies": {
+    "webpack": "^5.100.2",
+    "webpack-cli": "^6.0.1"
+  }
 }
